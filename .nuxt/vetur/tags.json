@@ -1,0 +1,41 @@
+{
+  "AgregarUsuario": {
+    "description": "Auto imported from components/AgregarUsuario.vue"
+  },
+  "BatchInfo": {
+    "description": "Auto imported from components/BatchInfo.vue"
+  },
+  "EditarUsuario": {
+    "description": "Auto imported from components/EditarUsuario.vue"
+  },
+  "EliminarUsuario": {
+    "description": "Auto imported from components/EliminarUsuario.vue"
+  },
+  "ModalProduccion": {
+    "description": "Auto imported from components/ModalProduccion.vue"
+  },
+  "NewPassword": {
+    "description": "Auto imported from components/NewPassword.vue"
+  },
+  "Notifier": {
+    "description": "Auto imported from components/Notifier.vue"
+  },
+  "NuxtLogo": {
+    "description": "Auto imported from components/NuxtLogo.vue"
+  },
+  "ProductList": {
+    "description": "Auto imported from components/Product_List.vue"
+  },
+  "Stepper": {
+    "description": "Auto imported from components/Stepper.vue"
+  },
+  "Tutorial": {
+    "description": "Auto imported from components/Tutorial.vue"
+  },
+  "VuetifyLogo": {
+    "description": "Auto imported from components/VuetifyLogo.vue"
+  },
+  "LayoutMenuNavabar": {
+    "description": "Auto imported from components/Layout/Menu_navabar.vue"
+  }
+}

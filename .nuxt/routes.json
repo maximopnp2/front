@@ -1,0 +1,72 @@
+[
+  {
+    "name": "batch_estados",
+    "path": "/batch_estados",
+    "component": "C:\\\\Users\\\\MaximoPaz\\\\Desktop\\\\UNIL-TRZ AZURE\\\\UNIL-TRZ AZURE\\\\client\\\\pages\\\\batch_estados.vue",
+    "chunkName": "pages/batch_estados",
+    "_name": "_18203eb0"
+  },
+  {
+    "name": "dashboard",
+    "path": "/dashboard",
+    "component": "C:\\\\Users\\\\MaximoPaz\\\\Desktop\\\\UNIL-TRZ AZURE\\\\UNIL-TRZ AZURE\\\\client\\\\pages\\\\dashboard.vue",
+    "chunkName": "pages/dashboard",
+    "_name": "_43e5f37c"
+  },
+  {
+    "name": "getBatchDate",
+    "path": "/getBatchDate",
+    "component": "C:\\\\Users\\\\MaximoPaz\\\\Desktop\\\\UNIL-TRZ AZURE\\\\UNIL-TRZ AZURE\\\\client\\\\pages\\\\getBatchDate.vue",
+    "chunkName": "pages/getBatchDate",
+    "_name": "_7339d69a"
+  },
+  {
+    "name": "getBatchList",
+    "path": "/getBatchList",
+    "component": "C:\\\\Users\\\\MaximoPaz\\\\Desktop\\\\UNIL-TRZ AZURE\\\\UNIL-TRZ AZURE\\\\client\\\\pages\\\\getBatchList.vue",
+    "chunkName": "pages/getBatchList",
+    "_name": "_58939f8a"
+  },
+  {
+    "name": "getLoteDate",
+    "path": "/getLoteDate",
+    "component": "C:\\\\Users\\\\MaximoPaz\\\\Desktop\\\\UNIL-TRZ AZURE\\\\UNIL-TRZ AZURE\\\\client\\\\pages\\\\getLoteDate.vue",
+    "chunkName": "pages/getLoteDate",
+    "_name": "_61ae5160"
+  },
+  {
+    "name": "home",
+    "path": "/home",
+    "component": "C:\\\\Users\\\\MaximoPaz\\\\Desktop\\\\UNIL-TRZ AZURE\\\\UNIL-TRZ AZURE\\\\client\\\\pages\\\\home.vue",
+    "chunkName": "pages/home",
+    "_name": "_6b2524b2"
+  },
+  {
+    "name": "login",
+    "path": "/login",
+    "component": "C:\\\\Users\\\\MaximoPaz\\\\Desktop\\\\UNIL-TRZ AZURE\\\\UNIL-TRZ AZURE\\\\client\\\\pages\\\\login.vue",
+    "chunkName": "pages/login",
+    "_name": "_bdb5a45e"
+  },
+  {
+    "name": "sap_batch",
+    "path": "/sap_batch",
+    "component": "C:\\\\Users\\\\MaximoPaz\\\\Desktop\\\\UNIL-TRZ AZURE\\\\UNIL-TRZ AZURE\\\\client\\\\pages\\\\sap_batch.vue",
+    "chunkName": "pages/sap_batch",
+    "_name": "_0db5e105"
+  },
+  {
+    "name": "users",
+    "path": "/users",
+    "component": "C:\\\\Users\\\\MaximoPaz\\\\Desktop\\\\UNIL-TRZ AZURE\\\\UNIL-TRZ AZURE\\\\client\\\\pages\\\\users.vue",
+    "chunkName": "pages/users",
+    "_name": "_1ce764f0"
+  },
+  {
+    "name": "index",
+    "path": "/",
+    "component": "C:\\\\Users\\\\MaximoPaz\\\\Desktop\\\\UNIL-TRZ AZURE\\\\UNIL-TRZ AZURE\\\\client\\\\pages\\\\index.vue",
+    "chunkName": "pages/index",
+    "_name": "_5104ea8c"
+  }
+]
